@@ -1,12 +1,12 @@
-# Creating a captivating glowing text effect animation using only HTML and CSS
+# Glowing Text Marquee Animation
 
 Discover the process of creating a glowing SVG text animation with a marquee effect using only HTML and CSS.
 
-![Image Title](docs/cover.jpg)
+![Cover](docs/cover.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=)
+[Article on Codrops](https://tympanus.net/codrops/?p=78669)
 
-[Demo](http://tympanus.net/Development/.../)
+[Demo](http://tympanus.net/Tutorials/GlowingTextMarqueeAnimation/)
 
 ## Installation
 
@@ -21,7 +21,7 @@ Follow Codrops: [X](http://www.X.com/codrops), [Facebook](http://www.facebook.co
 ## License
 [MIT](LICENSE)
 
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
+Made with :blue_heart:  by [Codrops](http://www.codrops.com) and [Kaploom®Creative House](https://www.instagram.com/kaploomdesign/)
 
 
 
